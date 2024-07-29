@@ -1,4 +1,5 @@
 project "yaml-cpp"
+	toolset "v143"
 	kind "StaticLib"
 	language "C++"
 
